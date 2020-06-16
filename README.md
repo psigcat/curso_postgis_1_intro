@@ -35,14 +35,14 @@ https://docs.qgis.org/3.10/en/docs/user_manual/managing_data_source/opening_data
 http://psig.es/Curso_PostGIS_1_Intro.zip (?? MB)
 
 ## Pasos a hacer
-1 Instalar PostgreSQL 10.13
+##### 1 Instalar PostgreSQL 10.13
 
-2 Instalar PostGIS 2.5
+##### 2 Instalar PostGIS 2.5
 
-3 Instalar pgAdmin4 4.22
+##### 3 Instalar pgAdmin4 4.22
 
 
-4 Abrir pgAdmin con la configuración inicial
+##### 4 Abrir pgAdmin con la configuración inicial
 
 host=localhost
 
@@ -54,18 +54,18 @@ user=postgres
 
 password=??
 
-Crear una nueva base de datos = **gis_curso**
+##### 5 Crear una nueva base de datos = **gis_curso**
 
-crear un nuevo usuario gisadmin
+##### 6 crear un nuevo usuario gisadmin
 
 CREATE ROLE **gisadmin** login PASSWORD **'your_password'** SUPERUSER CREATEDB CREATEROLE NOINHERIT;
 
 
-5 Abrir QGIS con el usuario gisadmin
+##### 7 Abrir QGIS con el usuario gisadmin
 
 guardar la conexión
 
-6 Utilizar el DB Manager para cargar capas
+##### 8 Utilizar el DB Manager para cargar capas
 
 Crea esquema limit_admin y medi_ambient
 
@@ -73,7 +73,7 @@ Cargar las capas que hay en la carpeta Datos
 
 
 
-#### video 1- Conexión y importar capas
+#### video 1- Instalar, configurar PostGIS e importar capas
 
 
 
