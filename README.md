@@ -17,6 +17,20 @@ Recordeu mantenir desconnectades la vostra càmera i micròfon per evitar interf
 
 Les preguntes es fan principalment pel xat. Si no disposeu d’aquesta icona, pengeu, elimineu cookies (o accedir en una pestanya en incògnit) i torneu a accedir. Si segueix sense aparèixer, pots fer les preguntes a través del micròfon al final de la sessió.
 
+## Hay que tener instalado PostgreSQL, PostGIS, pgAdmin 4 y QGIS Desktop
+
+### Windows
+Toturial como instalar postgreSQL y PostGIS en Windows
+https://www.youtube.com/watch?v=bq9dOrwZ-KA
+
+### Linux
+Protoclo de instalación y configuración en Linux
+https://github.com/carlospsig/protocol_install_qgis_ubuntu/blob/master/install_postgis.sh
+
+
+### PostgreSQL Service connection file
+https://docs.qgis.org/3.10/en/docs/user_manual/managing_data_source/opening_data.html#pg-service-file
+
 ## Primero hay que descarregar los ficheros comprimidos en zip de este enlace, y descomprimirlos
 http://psig.es/Curso_PostGIS_1_Intro.zip (?? MB)
 
