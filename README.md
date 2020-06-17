@@ -21,7 +21,7 @@ Les preguntes es fan principalment pel xat. Si no disposeu d’aquesta icona, pe
 
 ### Windows
 Toturial como instalar postgreSQL y PostGIS en Windows
-https://www.youtube.com/watch?v=bq9dOrwZ-KA
+https://youtu.be/_EgtELrjLO4
 
 ### Linux
 Protoclo de instalación y configuración en Linux
