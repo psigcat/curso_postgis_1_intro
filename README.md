@@ -32,7 +32,7 @@ https://github.com/carlospsig/protocol_install_qgis_ubuntu/blob/master/install_p
 https://docs.qgis.org/3.10/en/docs/user_manual/managing_data_source/opening_data.html#pg-service-file
 
 ## Primero hay que descarregar los ficheros comprimidos en zip de este enlace, y descomprimirlos
-http://psig.es/Curso_PostGIS_1_Intro.zip (?? MB)
+http://psig.es/Curso_PostGIS_1_Intro.zip (344 MB)
 
 ## Pasos a hacer
 ##### 1 Instalar PostgreSQL 10.13
@@ -72,10 +72,8 @@ Crea esquema limit_admin y medi_ambient
 Cargar las capas que hay en la carpeta Datos
 
 
-
 #### video 1- Instalar, configurar PostGIS e importar capas
-
-
+https://youtu.be/_EgtELrjLO4
 
 
 #### Otros vídeos tutoriales en este canal
