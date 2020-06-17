@@ -42,26 +42,33 @@ https://docs.qgis.org/3.10/en/docs/user_manual/managing_data_source/opening_data
 ##### 3 Instalar pgAdmin4 4.22
 
 ##### 4 Abrir pgAdmin con la configuración inicial
-host=localhost
-port=5432
-dbase=postres
-user=postgres
-password=??
+- host=localhost
+- port=5432
+- dbase=postres
+- user=postgres
+- password=??
 
-##### 5 Crear una nueva base de datos = **gis_curso**
+##### 5 Activar la extensión de PostGIS
+Ejecutar la sintaxi siguiente en una "Query Tool"
+- create extension postgis;
 
-##### 6 crear un nuevo usuario gisadmin
+##### 6 Crear una nueva base de datos = **gis_curso**
+Utilizar como plantilla (template) la base de datos "postgres"
 
-CREATE ROLE **gisadmin** login PASSWORD **'your_password'** SUPERUSER CREATEDB CREATEROLE NOINHERIT;
+##### 7 crear un nuevo usuario gisadmin
+Ejecutar la sintaxi siguiente en una "Query Tool"
+- CREATE ROLE **gisadmin** login PASSWORD **'your_password'** SUPERUSER CREATEDB CREATEROLE NOINHERIT;
 
-##### 7 Abrir QGIS con el usuario gisadmin
+##### 8 Abrir QGIS con el usuario gisadmin
 
 guardar la conexión
 
-##### 8 Utilizar el DB Manager para cargar capas
+##### 9 Utilizar el DB Manager para cargar capas
+Primero creamos nuevos esquemas 
+- limit_admin 
+- medi_ambient
 
-Crea esquema limit_admin y medi_ambient
-
+Luego importar las capas de municipis, comarques y PEIN, cómo mínimo.
 Cargar las capas que hay en la carpeta Datos
 
 
