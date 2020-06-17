@@ -3,7 +3,7 @@
 
 ## https://github.com/psigcat/curso_postgis_1_intro
 
-## Tema 1 Introduccións
+## Tema 1 Introducción
 
 #### Resumen del curso
 Introducción a PostgreSQL y PostGIS, configuración y gestión básica
