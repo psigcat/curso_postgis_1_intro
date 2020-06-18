@@ -56,17 +56,17 @@ Ejecutar la sintaxi siguiente en una "Query Tool"
 Utilizar como plantilla (template) la base de datos "postgres"
 
 ##### 7 crear un nuevo usuario gisadmin
-Ejecutar la sintaxi siguiente en una "Query Tool"
+Ejecutar la sintaxi siguiente en una "Query Tool", antes de ejecutarlo reemplazar el texto 'your_password' por un password vuestro personal y guardarlo en agún sitio seguro como keepass
 - CREATE ROLE **gisadmin** login PASSWORD **'your_password'** SUPERUSER CREATEDB CREATEROLE NOINHERIT;
 
 ##### 8 Abrir QGIS con el usuario gisadmin
-
-guardar la conexión
+Crear un nueva conexión con el usuario gisadmin y guardar la conexión
 
 ##### 9 Utilizar el DB Manager para cargar capas
-Primero creamos nuevos esquemas 
-- limit_admin 
-- medi_ambient
+- Abrimos el complemento DB Manager
+- Primero creamos nuevos esquemas 
+  - limit_admin 
+  - medi_ambient
 
 Luego importar las capas de municipis, comarques y PEIN, cómo mínimo.
 Cargar las capas que hay en la carpeta Datos
