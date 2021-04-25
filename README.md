@@ -44,7 +44,7 @@ https://docs.qgis.org/3.10/en/docs/user_manual/managing_data_source/opening_data
 ##### 4 Abrir pgAdmin con la configuración inicial
 - host=localhost
 - port=5432
-- dbase=postres
+- dbase=postgres
 - user=postgres
 - password=??
 
