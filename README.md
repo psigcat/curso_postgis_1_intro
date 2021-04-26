@@ -26,6 +26,9 @@ http://psig.es/Curso_PostGIS_1_Intro.zip (344 MB)
 Toturial como instalar postgreSQL y PostGIS en Windows
 https://youtu.be/_EgtELrjLO4
 
+Wetrasfer
+https://we.tl/t-kJGZqTfXNa
+
 ### Linux
 Protoclo de instalación y configuración en Linux
 https://github.com/carlospsig/protocol_install_qgis_ubuntu/blob/master/install_postgis.sh
