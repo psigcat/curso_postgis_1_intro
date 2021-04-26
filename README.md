@@ -20,14 +20,16 @@ Les preguntes es fan principalment pel xat. Si no disposeu d’aquesta icona, pe
 ## Primero hay que descarregar los ficheros comprimidos en zip de este enlace, y descomprimirlos
 http://psig.es/Curso_PostGIS_1_Intro.zip (344 MB)
 
+## Alternativa Wetrasfer
+https://we.tl/t-kJGZqTfXNa
+
 ## Hay que tener instalado PostgreSQL, PostGIS, pgAdmin 4 y QGIS Desktop
 
 ### Windows
 Toturial como instalar postgreSQL y PostGIS en Windows
 https://youtu.be/_EgtELrjLO4
 
-Wetrasfer
-https://we.tl/t-kJGZqTfXNa
+
 
 ### Linux
 Protoclo de instalación y configuración en Linux
