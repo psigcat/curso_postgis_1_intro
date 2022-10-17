@@ -18,10 +18,10 @@ Recordeu mantenir desconnectades la vostra càmera i micròfon per evitar interf
 Les preguntes es fan principalment pel xat. Si no disposeu d’aquesta icona, pengeu, elimineu cookies (o accedir en una pestanya en incògnit) i torneu a accedir. Si segueix sense aparèixer, pots fer les preguntes a través del micròfon al final de la sessió.
 
 ## Primero hay que descarregar los ficheros comprimidos en zip de este enlace, y descomprimirlos
-http://psig.es/Curso_PostGIS_1_Intro.zip (344 MB)
+http://psig.es/Curso_PostGIS_1_Intro.zip (74 MB)
 
 ## Alternativa Wetrasfer
-https://we.tl/t-kJGZqTfXNa
+https://we.tl/t-71s1b93vLk
 
 ## Hay que tener instalado PostgreSQL, PostGIS, pgAdmin 4 y QGIS Desktop
 
