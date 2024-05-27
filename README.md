@@ -80,15 +80,13 @@ Cargar las capas que hay en la carpeta Datos
 #### video 1- Instalar, configurar PostGIS e importar capas
 https://youtu.be/_EgtELrjLO4
 
-
 #### Otros vídeos tutoriales en este canal
 http://www.youtube.com/c/CarlosLópezQuintanilla
-
-## Fí
-
 
 ### dudas y comentarios
 carlos.lopez@psig.es
 
 Colabora con QGIS, hazte socio!
 www.qgis.es
+
+## Fí
