@@ -21,7 +21,7 @@ Les preguntes es fan principalment pel xat. Si no disposeu d’aquesta icona, pe
 https://psig.es/Curso_PostGIS_1_Intro.zip (74 MB)
 
 ## Alternativa Wetrasfer
-https://we.tl/t-71s1b93vLk
+https://we.tl/t-E6YVtRdCub
 
 ## Hay que tener instalado PostgreSQL, PostGIS, pgAdmin 4 y QGIS Desktop
 
@@ -40,11 +40,11 @@ https://github.com/carlospsig/protocol_install_qgis_ubuntu/blob/master/install_p
 https://docs.qgis.org/3.10/en/docs/user_manual/managing_data_source/opening_data.html#pg-service-file
 
 ## Pasos a hacer
-##### 1 Instalar PostgreSQL 10.13
+##### 1 Instalar PostgreSQL 16
 
-##### 2 Instalar PostGIS 2.5
+##### 2 Instalar PostGIS 3
 
-##### 3 Instalar pgAdmin4 4.22
+##### 3 Instalar pgAdmin4 8
 
 ##### 4 Abrir pgAdmin con la configuración inicial
 - host=localhost
@@ -83,6 +83,9 @@ https://youtu.be/_EgtELrjLO4
 
 #### Otros vídeos tutoriales en este canal
 http://www.youtube.com/c/CarlosLópezQuintanilla
+
+## Fí
+
 
 ### dudas y comentarios
 carlos.lopez@psig.es
