@@ -18,10 +18,7 @@ Recordeu mantenir desconnectades la vostra càmera i micròfon per evitar interf
 Les preguntes es fan principalment pel xat. Si no disposeu d’aquesta icona, pengeu, elimineu cookies (o accedir en una pestanya en incògnit) i torneu a accedir. Si segueix sense aparèixer, pots fer les preguntes a través del micròfon al final de la sessió.
 
 ## Primero hay que descarregar los ficheros comprimidos en zip de este enlace, y descomprimirlos
-https://psig.es/Curso_PostGIS_1_Intro.zip (74 MB)
-
-## Alternativa Wetrasfer
-https://we.tl/t-E6YVtRdCub
+Link material del curs(https://drive.google.com/file/d/1fJrQ-wW-jiXVHwJ19aUtqWVe96Auqpmv/view?usp=sharing) (25 MB)
 
 ## Hay que tener instalado PostgreSQL, PostGIS, pgAdmin 4 y QGIS Desktop
 
@@ -29,12 +26,9 @@ https://we.tl/t-E6YVtRdCub
 Toturial como instalar postgreSQL y PostGIS en Windows
 https://youtu.be/_EgtELrjLO4
 
-
-
 ### Linux
 Protoclo de instalación y configuración en Linux
 https://github.com/carlospsig/protocol_install_qgis_ubuntu/blob/master/install_postgis.sh
-
 
 ### PostgreSQL Service connection file
 https://docs.qgis.org/3.10/en/docs/user_manual/managing_data_source/opening_data.html#pg-service-file
