@@ -18,7 +18,7 @@ Recordeu mantenir desconnectades la vostra càmera i micròfon per evitar interf
 Les preguntes es fan principalment pel xat. Si no disposeu d’aquesta icona, pengeu, elimineu cookies (o accedir en una pestanya en incògnit) i torneu a accedir. Si segueix sense aparèixer, pots fer les preguntes a través del micròfon al final de la sessió.
 
 ## Primero hay que descarregar los ficheros comprimidos en zip de este enlace, y descomprimirlos
-Link material del curs(https://drive.google.com/file/d/1fJrQ-wW-jiXVHwJ19aUtqWVe96Auqpmv/view?usp=sharing) (25 MB)
+Link material del curs([https://drive.google.com/file/d/1fJrQ-wW-jiXVHwJ19aUtqWVe96Auqpmv/view?usp=sharing)](https://drive.google.com/file/d/1DpPD56c4NCnsDp4cXwaiQT9JodEpsVnE/view?usp=sharing) (75 MB)
 
 ## Hay que tener instalado PostgreSQL, PostGIS, pgAdmin 4 y QGIS Desktop
 
@@ -34,11 +34,11 @@ https://github.com/carlospsig/protocol_install_qgis_ubuntu/blob/master/install_p
 https://docs.qgis.org/3.10/en/docs/user_manual/managing_data_source/opening_data.html#pg-service-file
 
 ## Pasos a hacer
-##### 1 Instalar PostgreSQL 16
+##### 1 Instalar PostgreSQL 17
 
 ##### 2 Instalar PostGIS 3
 
-##### 3 Instalar pgAdmin4 8
+##### 3 Instalar pgAdmin4 9
 
 ##### 4 Abrir pgAdmin con la configuración inicial
 - host=localhost
@@ -47,12 +47,12 @@ https://docs.qgis.org/3.10/en/docs/user_manual/managing_data_source/opening_data
 - user=postgres
 - password=??
 
-##### 5 Activar la extensión de PostGIS
+##### 5 Crear una nueva base de datos = **gis_curso**
+Utilizar como plantilla (template) la base de datos "postgres"
+
+##### 6 Activar la extensión de PostGIS
 Ejecutar la sintaxi siguiente en una "Query Tool"
 - create extension postgis;
-
-##### 6 Crear una nueva base de datos = **gis_curso**
-Utilizar como plantilla (template) la base de datos "postgres"
 
 ##### 7 crear un nuevo usuario gisadmin
 Ejecutar la sintaxi siguiente en una "Query Tool", antes de ejecutarlo reemplazar el texto 'your_password' por un password vuestro personal y guardarlo en agún sitio seguro como keepass
