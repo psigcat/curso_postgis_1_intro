@@ -18,7 +18,7 @@ Recordeu mantenir desconnectades la vostra càmera i micròfon per evitar interf
 Les preguntes es fan principalment pel xat. Si no disposeu d’aquesta icona, pengeu, elimineu cookies (o accedir en una pestanya en incògnit) i torneu a accedir. Si segueix sense aparèixer, pots fer les preguntes a través del micròfon al final de la sessió.
 
 ## Primero hay que descarregar los ficheros comprimidos en zip de este enlace, y descomprimirlos
-Link material del curs([https://drive.google.com/file/d/1fJrQ-wW-jiXVHwJ19aUtqWVe96Auqpmv/view?usp=sharing)](https://drive.google.com/file/d/1DpPD56c4NCnsDp4cXwaiQT9JodEpsVnE/view?usp=sharing) (75 MB)
+Link material del curs([https://drive.google.com/file/d/1fJrQ-wW-jiXVHwJ19aUtqWVe96Auqpmv/view?usp=sharing](https://drive.google.com/file/d/1lXXKmcq46lLAUaWUsCmw8fSTJDGK_MEU/view?usp=sharing))]([https://drive.google.com/file/d/1DpPD56c4NCnsDp4cXwaiQT9JodEpsVnE/view?usp=sharing](https://drive.google.com/file/d/1lXXKmcq46lLAUaWUsCmw8fSTJDGK_MEU/view?usp=sharing)) (25 MB)
 
 ## Hay que tener instalado PostgreSQL, PostGIS, pgAdmin 4 y QGIS Desktop
 
