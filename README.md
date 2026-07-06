@@ -12,6 +12,8 @@ Introducción a PostgreSQL y PostGIS, configuración y gestión básica
 Link material del curs([https://drive.google.com/file/d/1-RnbCtC-7NPP-5YFcJ-6c1nRe4rVYa2W/view?usp=sharing]) (25 MB)
 
 ## Hay que tener instalado PostgreSQL, PostGIS, pgAdmin 4 y ...... QGIS Desktop
+Por si falla la conexión a internet, les dejo un zip con las 3 aplicaciones a instalar
+https://drive.google.com/file/d/1GDWted0-H1da552CfLEcU4kZwff8X8QS/view?usp=sharing
 
 ### Windows
 Toturial como instalar postgreSQL y PostGIS en Windows
@@ -25,7 +27,7 @@ https://github.com/carlospsig/protocol_install_qgis_ubuntu/blob/master/install_p
 https://docs.qgis.org/3.10/en/docs/user_manual/managing_data_source/opening_data.html#pg-service-file
 
 ## Pasos a hacer
-##### 1 Instalar PostgreSQL 17
+##### 1 Instalar PostgreSQL 18
 
 ##### 2 Instalar PostGIS 3
 
@@ -39,7 +41,7 @@ https://docs.qgis.org/3.10/en/docs/user_manual/managing_data_source/opening_data
 - password=??
 
 ##### 5 Crear una nueva base de datos = **gis_curso**
-Utilizar como plantilla (template) la base de datos "postgres"
+A futuro, les recomiendo utilizar otra base de dadtos como plantilla (template) la base de datos "postgres" (pe)
 
 ##### 6 Activar la extensión de PostGIS
 Ejecutar la sintaxi siguiente en una "Query Tool"
