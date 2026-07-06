@@ -47,6 +47,10 @@ A futuro, les recomiendo utilizar otra base de dadtos como plantilla (template) 
 Ejecutar la sintaxi siguiente en una "Query Tool"
 - create extension postgis;
 
+
+##### podemos compartir el código en esta web:
+https://codeshare.io/2W9xDE
+
 ##### 7 crear un nuevo usuario gisadmin
 Ejecutar la sintaxi siguiente en una "Query Tool", antes de ejecutarlo reemplazar el texto 'your_password' por un password vuestro personal y guardarlo en agún sitio seguro como keepass
 - CREATE ROLE **gisadmin** login PASSWORD **'your_password'** SUPERUSER CREATEDB CREATEROLE NOINHERIT;
