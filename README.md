@@ -12,8 +12,8 @@ Introducción a PostgreSQL y PostGIS, configuración y gestión básica
 Link material del curs [[enlace](https://drive.google.com/file/d/1TvBvySj9hnc3CTP7wa3d959tyK0Fzb4o/view?usp=sharing)]) (89 MB)
 
 ## Hay que tener instalado PostgreSQL, PostGIS, pgAdmin 4 y ...... QGIS Desktop
-Por si falla la conexión a internet, les dejo un zip con las 3 aplicaciones a instalar
-https://drive.google.com/file/d/1GDWted0-H1da552CfLEcU4kZwff8X8QS/view?usp=sharing (677 MB)
+Por si falla la conexión a internet, les dejo un zip con las 3 aplicaciones a instalar [[enlace](
+https://drive.google.com/file/d/1GDWted0-H1da552CfLEcU4kZwff8X8QS/view?usp=sharing)] (677 MB)
 
 ### Windows
 Toturial como instalar postgreSQL y PostGIS en Windows
