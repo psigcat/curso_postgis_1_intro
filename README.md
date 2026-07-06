@@ -21,10 +21,10 @@ https://youtu.be/_EgtELrjLO4
 
 ### Linux
 Protoclo de instalación y configuración en Linux
-]enlace github](https://github.com/carlospsig/protocol_install_qgis_ubuntu/blob/master/install_postgis.sh)
+[--enlace github--](https://github.com/carlospsig/protocol_install_qgis_ubuntu/blob/master/install_postgis.sh)
 
 ### PostgreSQL Service connection file
-[enlace pg_service.conf](https://docs.qgis.org/3.10/en/docs/user_manual/managing_data_source/opening_data.html#pg-service-file)
+[--enlace pg_service.conf--](https://docs.qgis.org/3.10/en/docs/user_manual/managing_data_source/opening_data.html#pg-service-file)
 
 ## Pasos a hacer
 ##### 1 Instalar PostgreSQL 18
